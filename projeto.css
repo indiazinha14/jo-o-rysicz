@@ -1,17 +1,21 @@
 h1{ 
     font-size: 78px;
     text-align:center;
-    color: #B22222;
+    color: #DC143C;
 }
 
 
 #capa {
-   height: 999px;
+   height: 599px;
    width: 2000px;
 }
 
+#instagram{
+   color: #DC143C;
+}
 
-
-
+.principal {
+   background: #DC143C;
+}
 
 
